@@ -12,7 +12,6 @@ video: ./static/videos/mdt-v5-encoded.mp4
 # data: https://huggingface.co/docs/datasets
 ---
 
-
 <!-- Using HTML to center the abstract -->
 <video width="100%" autoplay controls muted loop playsinline>
     <source src="./static/videos/mdt-v5-encoded.mp4" type="video/mp4">
